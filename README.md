@@ -9,6 +9,7 @@ Este curso teve como afinidade de adquirir conhecimento sobre as principais ferr
   
   <h1 align="center">
     <img src="https://github.com/DanielPinheirox/ProjetoBarbearia/blob/main/img/apresentacao-projeto.gif">
+    
 </h1>
  
  ##💻 Ferramentas Utilizadas:
